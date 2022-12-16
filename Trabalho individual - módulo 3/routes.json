@@ -1,0 +1,60 @@
+{
+    "Planos": [
+        {
+
+            "id": 1,
+            "nome": "Plano básico",
+            "Benefício": "Básico, acesso a todos os aparelhos, exceto a sala de dança.",
+            "Forma de pagamento": "Cartão, dinheiro e pix",
+            "Valor": 100
+        },
+        {
+            "id": 2,
+            "nome": "Plano universitário",
+            "Benefício": "Para universitários, acesso a todos os aparelhos e à sala de dança.",
+            "Forma de pagamento": "Cartão, dinheiro e pix",
+            "Valor": 70
+        },
+        {
+            "id": 3,
+            "nome": "Plano premium",
+            "Benefício": "Premium, acesso a todos os aparelhos e à sala de dança.",
+            "Forma de pagamento": "Cartão, dinheiro e pix",
+            "Valor": 130
+        }
+
+    ],
+
+    "Alunos": [
+    {
+
+        "id":1,
+        "Nome": "Gaby",
+        "E-mail": "gaby123@gmail.com",
+        "Idade": 21,
+        "Assinatura": "Plano premium"
+
+    },
+    {
+        "id":2,
+        "Nome": "Amanda",
+        "E-mail": "amanda123@gmail.com",
+        "Idade": 25,
+        "Assinatura": "Plano universitário"
+
+
+    },
+
+    {
+
+        "id":3,
+        "Nome": "Vitória",
+        "E-mail": "Vitoria123@gmail.com",
+        "Idade": 20,
+        "Assinatura": "Plano básico"
+
+    }
+
+    ]
+
+}
