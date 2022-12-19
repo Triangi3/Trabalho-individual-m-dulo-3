@@ -1,0 +1,11 @@
+{
+  "GET /Planos": "GET/Planos/get",
+  "POST /Planos": "POST/Planos/create",
+  "PUT /Planos": "PUT/Planos/update",
+  "DELETE /Planos": "DELETE/Planos/delete",
+  "GET /Alunos": "GET/Alunos/get",
+  "POST /Alunos": "POST/Alunos/create",
+  "PUT /Alunos": "PUT/Alunos/update",
+  "DELETE /Alunos": "DELETE/Alunos/delete"
+  
+}
